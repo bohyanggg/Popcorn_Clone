@@ -8,9 +8,8 @@ Clone Popcorn cross platform mobile application
 ```terminal
 .
 ├── assets              # images
-├── firebase            # backend
-├── GoogleMapAPIUse     # Google Maps API
-├── Lab Deliverables    # Lab 5 deliverables for submission
+├── frontend            # UI
+├── backend             # backend + database
 ├── screens             # user interface
 └── README.md
 ```
@@ -33,7 +32,7 @@ git clone https://github.com/bohyanggg/Popcorn_Clone.git
 2\. Go to project directory
 
 ```terminal
-cd Popcorn-Clone
+cd Popcorn_Clone
 ```
 
 3\. Install dependencies
